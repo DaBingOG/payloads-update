@@ -32,6 +32,6 @@ jobs:
         run: |
           git config --global user.name "GitHub Actions Bot"
           git config --global user.email "actions@github.com"
-          git add json/github_payloads.json json/china_payloads.json
-          git commit -m "🤖 Auto generate github & china payloads.json" || echo "No changes to commit"
+          git add json/payloads_og.json json/payloads_cn.json
+          git commit -m "🤖 Auto generate payloads_og & payloads_cn.json" || echo "No changes to commit"
           git push
