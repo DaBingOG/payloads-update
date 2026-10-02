@@ -12,11 +12,8 @@ def main():
     repo_root = os.getcwd()
     payload_base_dir = os.path.join(repo_root, "payloads")
 
-# 海外源 github.io
 gh_base_url = "https://dabingog.github.io/payloads-update/payloads/"
-# CNB国内静态站点地址
-china_base_url = "https://dabingog.cnb.site/payloads-update/payloads/"
-
+china_base_url = "https://cdn.jsdmirror.com/gh/dabingog/payloads-update@main/payloads/"
 
     gh_list = []
     gitee_list = []
