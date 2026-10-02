@@ -60,7 +60,8 @@ def main():
     with open(gh_json_path, "w", encoding="utf-8") as f:
         json.dump(gh_list, f, indent=2, ensure_ascii=False)
 
-    china_json_path = os.path.join(out_dir, "json/china_payloads.json")
+    # 修复：直接写文件名，不要再加json/前缀
+    china_json_path = os.path.join(out_dir, "china_payloads.json")
     with open(china_json_path, "w", encoding="utf-8") as f:
         json.dump(china_list, f, indent=2, ensure_ascii=False)
 
