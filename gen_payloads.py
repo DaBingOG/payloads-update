@@ -56,17 +56,18 @@ def main():
     out_dir = os.path.join(repo_root, "json")
     os.makedirs(out_dir, exist_ok=True)
 
-    gh_json_path = os.path.join(out_dir, "github_payloads.json")
+    # 改名：payloads_og.json
+    gh_json_path = os.path.join(out_dir, "payloads_og.json")
     with open(gh_json_path, "w", encoding="utf-8") as f:
         json.dump(gh_list, f, indent=2, ensure_ascii=False)
 
-    # 修复：直接写文件名，不要再加json/前缀
-    china_json_path = os.path.join(out_dir, "china_payloads.json")
+    # 改名：payloads_cn.json
+    china_json_path = os.path.join(out_dir, "payloads_cn.json")
     with open(china_json_path, "w", encoding="utf-8") as f:
         json.dump(china_list, f, indent=2, ensure_ascii=False)
 
-    print(f"✅ Github清单：{gh_json_path}，共 {len(gh_list)}")
-    print(f"✅ JSDMirror国内清单：{china_json_path}，共 {len(china_list)}")
+    print(f"✅ 原版OG清单：{gh_json_path}，共 {len(gh_list)}")
+    print(f"✅ 国内CN清单：{china_json_path}，共 {len(china_list)}")
 
 if __name__ == "__main__":
     main()
