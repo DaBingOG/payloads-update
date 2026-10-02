@@ -4,8 +4,14 @@ on:
     branches: [ main ]
   workflow_dispatch:
 
+# 只需要基础写权限提交代码，不需要pages权限
 permissions:
   contents: write
+
+# 增加并发控制，防止多次提交互相取消
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
 
 jobs:
   build:
