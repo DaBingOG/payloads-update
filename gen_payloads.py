@@ -12,11 +12,13 @@ def main():
     repo_root = os.getcwd()
     payload_base_dir = os.path.join(repo_root, "payloads")
 
-gh_base_url = "https://dabingog.github.io/payloads-update/payloads/"
-china_base_url = "https://cdn.jsdmirror.com/gh/dabingog/payloads-update@main/payloads/"
+    # 海外源 github.io
+    gh_base_url = "https://dabingog.github.io/payloads-update/payloads/"
+    # 国内源 JSDMirror
+    china_base_url = "https://cdn.jsdmirror.com/gh/dabingog/payloads-update@main/payloads/"
 
     gh_list = []
-    gitee_list = []
+    china_list = []
 
     if os.path.exists(payload_base_dir):
         for root, _, files in os.walk(payload_base_dir):
@@ -41,34 +43,29 @@ china_base_url = "https://cdn.jsdmirror.com/gh/dabingog/payloads-update@main/pay
                         "category": "Payloads",
                         "checksum": sha
                     }
-                    # Github源，填入github url
                     gh_item = item_template.copy()
                     gh_item["url"] = gh_base_url + rel_url
                     gh_list.append(gh_item)
 
-                    # Gitee源，填入gitee url
-                    gitee_item = item_template.copy()
-                    gitee_item["url"] = gitee_base_url + rel_url
-                    gitee_list.append(gitee_item)
+                    china_item = item_template.copy()
+                    china_item["url"] = china_base_url + rel_url
+                    china_list.append(china_item)
     else:
         print(f"⚠️ 警告：目录 {payload_base_dir} 不存在！")
 
-    # 自动创建json目录
     out_dir = os.path.join(repo_root, "json")
     os.makedirs(out_dir, exist_ok=True)
 
-    # 输出github版本json
     gh_json_path = os.path.join(out_dir, "github_payloads.json")
     with open(gh_json_path, "w", encoding="utf-8") as f:
         json.dump(gh_list, f, indent=2, ensure_ascii=False)
 
-    # 输出gitee版本json
-    gitee_json_path = os.path.join(out_dir, "gitee_payloads.json")
-    with open(gitee_json_path, "w", encoding="utf-8") as f:
-        json.dump(gitee_list, f, indent=2, ensure_ascii=False)
+    china_json_path = os.path.join(out_dir, "json/china_payloads.json")
+    with open(china_json_path, "w", encoding="utf-8") as f:
+        json.dump(china_list, f, indent=2, ensure_ascii=False)
 
-    print(f"✅ Github清单生成完成，共 {len(gh_list)} 个payload: {gh_json_path}")
-    print(f"✅ Gitee清单生成完成，共 {len(gitee_list)} 个payload: {gitee_json_path}")
+    print(f"✅ Github清单：{gh_json_path}，共 {len(gh_list)}")
+    print(f"✅ JSDMirror国内清单：{china_json_path}，共 {len(china_list)}")
 
 if __name__ == "__main__":
     main()
