@@ -1,32 +1,44 @@
-name: Auto Generate payloads.json
+name: Auto Generate Dual JSON & Sync to Gitee
 on:
   push:
     branches: [ main ]
-  workflow_dispatch: # 支持在github页面手动触发
+  workflow_dispatch:
 
 permissions:
-  contents: write # 必须开启，允许action提交文件回仓库
+  contents: write
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: 检出仓库代码
+      - name: Checkout code
         uses: actions/checkout@v4
 
-      - name: 设置Python3
+      - name: Setup Python
         uses: actions/setup-python@v5
         with:
           python-version: "3.11"
 
-      - name: 运行脚本生成payloads.json
+      - name: Run script to generate two json
         run: python3 gen_payloads.py
 
-      - name: 提交更新后的json
+      - name: Commit two json files back to GitHub
         run: |
           git config --global user.name "GitHub Actions Bot"
           git config --global user.email "actions@github.com"
-          git add json/payloads.json
-          git commit -m "🤖 Auto update payloads.json" || echo "No changes to commit"
-          git pull
+          git add json/github_payloads.json json/gitee_payloads.json
+          git commit -m "🤖 Auto generate github & gitee payloads.json" || echo "No changes to commit"
           git push
+
+  sync_to_gitee:
+    needs: build
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout full repo
+        uses: actions/checkout@v4
+      - name: Sync whole repo to Gitee
+        run: |
+          git config --global user.name "Sync Bot"
+          git config --global user.email "bot@dabingog.com"
+          git remote add gitee https://${{ secrets.GITEE_USER }}:${{ secrets.GITEE_TOKEN }}@gitee.com/${{ secrets.GITEE_USER }}/payloads-update.git
+          git push gitee main --force
