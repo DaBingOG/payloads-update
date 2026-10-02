@@ -1,4 +1,4 @@
-name: Auto Generate Dual JSON & Sync to CNB
+name: Auto Generate Dual JSON
 on:
   push:
     branches: [ main ]
@@ -27,21 +27,5 @@ jobs:
           git config --global user.name "GitHub Actions Bot"
           git config --global user.email "actions@github.com"
           git add json/github_payloads.json json/china_payloads.json
-          git commit -m "🤖 Auto generate github & cnb payloads.json" || echo "No changes to commit"
+          git commit -m "🤖 Auto generate github & china payloads.json" || echo "No changes to commit"
           git push
-
-  sync_to_cnb:
-    needs: build
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout full repo
-        uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
-      - name: Sync to CNB.cool
-        run: |
-          git config --global user.name "Sync Bot"
-          git config --global user.email "bot@dabingog.com"
-          # CNB远程地址，用户名固定写 cnb，密码是CNB_TOKEN
-          git remote add cnb https://cnb:${{ secrets.CNB_TOKEN }}@cnb.cool/${{ secrets.CNB_USER }}/payloads-update.git
-          git push cnb main --force
