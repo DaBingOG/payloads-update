@@ -1,0 +1,191 @@
+[
+  {
+    "name": "pkg-manager_v1.4.1.elf",
+    "filename": "pkg-manager_v1.4.1.elf",
+    "description": "",
+    "version": "v1.4.1",
+    "category": "Payloads",
+    "checksum": "09adaff13b858bb3db519faaea673ee3fa67298081e608d32f6501ed6e9f706e",
+    "url": "https://cdn.jsdmirror.com/gh/dabingog/payloads-update@main/payloads/pkg-manager/pkg-manager_v1.4.1.elf"
+  },
+  {
+    "name": "web-file-mgr-v1.9.elf",
+    "filename": "web-file-mgr-v1.9.elf",
+    "description": "",
+    "version": "v1.0.0",
+    "category": "Payloads",
+    "checksum": "711cb076e887fcd55d973ade8b84bb6c22720be295bfde18e32761f6e0479a3e",
+    "url": "https://cdn.jsdmirror.com/gh/dabingog/payloads-update@main/payloads/web-file-mgr/web-file-mgr-v1.9.elf"
+  },
+  {
+    "name": "kylin-core-community-lite-v131-global-release.elf",
+    "filename": "kylin-core-community-lite-v131-global-release.elf",
+    "description": "",
+    "version": "v1.0.0",
+    "category": "Payloads",
+    "checksum": "2b731fc60b3d7996667b372bb8e31df7125d209ecacbb6838312a51b24b65c29",
+    "url": "https://cdn.jsdmirror.com/gh/dabingog/payloads-update@main/payloads/kylin/kylin-core-community-lite-v131-global-release.elf"
+  },
+  {
+    "name": "ShadowMountPlus_1.7beta2.elf",
+    "filename": "ShadowMountPlus_1.7beta2.elf",
+    "description": "",
+    "version": "v1.0.0",
+    "category": "Payloads",
+    "checksum": "3f716a7b2220c7e87e87452ae05cad689ef842d3beb4cdad6c526cb6dfc2b6b5",
+    "url": "https://cdn.jsdmirror.com/gh/dabingog/payloads-update@main/payloads/shadowmountplus/ShadowMountPlus_1.7beta2.elf"
+  },
+  {
+    "name": "ShadowMountPlus_v1.7beta3.elf",
+    "filename": "ShadowMountPlus_v1.7beta3.elf",
+    "description": "",
+    "version": "v1.7beta3",
+    "category": "Payloads",
+    "checksum": "2a7427e20ba7a70bd8cd01e47eb00ee7ca82db82dff3da7884f48f9c3fcbe95a",
+    "url": "https://cdn.jsdmirror.com/gh/dabingog/payloads-update@main/payloads/shadowmountplus/ShadowMountPlus_v1.7beta3.elf"
+  },
+  {
+    "name": "ShadowMountPlus_1.6test15f2.elf",
+    "filename": "ShadowMountPlus_1.6test15f2.elf",
+    "description": "",
+    "version": "v1.0.0",
+    "category": "Payloads",
+    "checksum": "8ab32f4cede840a73515c05697fe81759bc98cf41fc22b43e09943262f447e99",
+    "url": "https://cdn.jsdmirror.com/gh/dabingog/payloads-update@main/payloads/shadowmountplus/ShadowMountPlus_1.6test15f2.elf"
+  },
+  {
+    "name": "webkit-autoloader-installer_v0.5.2.elf",
+    "filename": "webkit-autoloader-installer_v0.5.2.elf",
+    "description": "",
+    "version": "v0.5.2",
+    "category": "Payloads",
+    "checksum": "f990e48e8330231d2066a7b8ab6dc25fda83b2cc36cb426c472b35b33767451a",
+    "url": "https://cdn.jsdmirror.com/gh/dabingog/payloads-update@main/payloads/webkit-autoloader-installer/webkit-autoloader-installer_v0.5.2.elf"
+  },
+  {
+    "name": "onionHEN_v0.0.13.elf",
+    "filename": "onionHEN_v0.0.13.elf",
+    "description": "",
+    "version": "v0.0.13",
+    "category": "Payloads",
+    "checksum": "aa3f98847948e2ae8ea600c3f437e28247a0a4f8b73651a046d2859924bf97b3",
+    "url": "https://cdn.jsdmirror.com/gh/dabingog/payloads-update@main/payloads/onionHEN/onionHEN_v0.0.13.elf"
+  },
+  {
+    "name": "ftpsrv_ps5-payload_v0.21.1.elf",
+    "filename": "ftpsrv_ps5-payload_v0.21.1.elf",
+    "description": "",
+    "version": "v0.21.1",
+    "category": "Payloads",
+    "checksum": "7d4b31c83eae4e056580482a3a074e1db25922efc74ac1e439473b45d71a5938",
+    "url": "https://cdn.jsdmirror.com/gh/dabingog/payloads-update@main/payloads/ftpsrv/ftpsrv_ps5-payload_v0.21.1.elf"
+  },
+  {
+    "name": "ftpsrv_drakmor_v1.16-ng-stable.elf",
+    "filename": "ftpsrv_drakmor_v1.16-ng-stable.elf",
+    "description": "",
+    "version": "v1.16-ng-stable",
+    "category": "Payloads",
+    "checksum": "f19ae469b25453a7a4af4529527521d31f143100f18a2c6839666e7121c8bd32",
+    "url": "https://cdn.jsdmirror.com/gh/dabingog/payloads-update@main/payloads/ftpsrv/ftpsrv_drakmor_v1.16-ng-stable.elf"
+  },
+  {
+    "name": "np-fake-signin_v1.3.elf",
+    "filename": "np-fake-signin_v1.3.elf",
+    "description": "",
+    "version": "v1.3",
+    "category": "Payloads",
+    "checksum": "2ace1bb0be6d57f91cb24e4d3a221dec2d6d6114ace0a6b5748c6c0dcdb3b9c6",
+    "url": "https://cdn.jsdmirror.com/gh/dabingog/payloads-update@main/payloads/np-fake-signin/np-fake-signin_v1.3.elf"
+  },
+  {
+    "name": "zftpd_v1.6.0.elf",
+    "filename": "zftpd_v1.6.0.elf",
+    "description": "",
+    "version": "v1.6.0",
+    "category": "Payloads",
+    "checksum": "39ed57bef579282418f822da2e58ea5d56acfa5aa4cd38816744b1f610bfa14d",
+    "url": "https://cdn.jsdmirror.com/gh/dabingog/payloads-update@main/payloads/zftp/zftpd_v1.6.0.elf"
+  },
+  {
+    "name": "BackPork_v0.1.elf",
+    "filename": "BackPork_v0.1.elf",
+    "description": "",
+    "version": "v0.1",
+    "category": "Payloads",
+    "checksum": "d74e4cd119b2bb1fd423f2f5b1c9a7f096b3e588c753af1ab48b983d56216a52",
+    "url": "https://cdn.jsdmirror.com/gh/dabingog/payloads-update@main/payloads/backpork/BackPork_v0.1.elf"
+  },
+  {
+    "name": "a53_ppr_install_1160_20.09.elf",
+    "filename": "a53_ppr_install_1160_20.09.elf",
+    "description": "",
+    "version": "v1.0.0",
+    "category": "Payloads",
+    "checksum": "e1fb8fb3f373b670564052aefcda6752e51b556cd923fd1764c6e4ac7bd1dd7d",
+    "url": "https://cdn.jsdmirror.com/gh/dabingog/payloads-update@main/payloads/a53/a53_ppr_install_1160_20.09.elf"
+  },
+  {
+    "name": "a53_ppr_install_1140_20.09.elf",
+    "filename": "a53_ppr_install_1140_20.09.elf",
+    "description": "",
+    "version": "v1.0.0",
+    "category": "Payloads",
+    "checksum": "a682ce727ddcc2324b68397333e5319ece3c351ef845dd000af1452538fb0a72",
+    "url": "https://cdn.jsdmirror.com/gh/dabingog/payloads-update@main/payloads/a53/a53_ppr_install_1140_20.09.elf"
+  },
+  {
+    "name": "nanoDNS_v0.4.elf",
+    "filename": "nanoDNS_v0.4.elf",
+    "description": "",
+    "version": "v0.4",
+    "category": "Payloads",
+    "checksum": "fcfb7d47c3b295560ea1603dc015f7c4950353ef0faca16428bd425680ef1fc5",
+    "url": "https://cdn.jsdmirror.com/gh/dabingog/payloads-update@main/payloads/nanoDNS/nanoDNS_v0.4.elf"
+  },
+  {
+    "name": "Kstuff-lite_1.11Beta.elf",
+    "filename": "Kstuff-lite_1.11Beta.elf",
+    "description": "",
+    "version": "v1.0.0",
+    "category": "Payloads",
+    "checksum": "62d9bb6f16531e1c10fd522cb918431eaa3319dcd37405af5cc0b2240d7b2ee5",
+    "url": "https://cdn.jsdmirror.com/gh/dabingog/payloads-update@main/payloads/kstuff/Kstuff-lite_1.11Beta.elf"
+  },
+  {
+    "name": "ps5debug-NG_v1.3.2.elf",
+    "filename": "ps5debug-NG_v1.3.2.elf",
+    "description": "",
+    "version": "v1.3.2",
+    "category": "Payloads",
+    "checksum": "949b0e6e0fe3f24f4a820319fd76d9ccb92f9770cbb1a64b09a8eca5c1fc9ff3",
+    "url": "https://cdn.jsdmirror.com/gh/dabingog/payloads-update@main/payloads/ps5debug-NG/ps5debug-NG_v1.3.2.elf"
+  },
+  {
+    "name": "websrv_v0.34.elf",
+    "filename": "websrv_v0.34.elf",
+    "description": "",
+    "version": "v0.34",
+    "category": "Payloads",
+    "checksum": "54730c867c6e1148536fdcb370e63a7762d989ea87b62488ad4caff64d43f263",
+    "url": "https://cdn.jsdmirror.com/gh/dabingog/payloads-update@main/payloads/websrv/websrv_v0.34.elf"
+  },
+  {
+    "name": "garlic-savemgr_v1.13.1.elf",
+    "filename": "garlic-savemgr_v1.13.1.elf",
+    "description": "",
+    "version": "v1.13.1",
+    "category": "Payloads",
+    "checksum": "b0fc2fcdda977d2a1207d77148746859b7ea7f3cfcad02828a7a9b49651807f5",
+    "url": "https://cdn.jsdmirror.com/gh/dabingog/payloads-update@main/payloads/garlic-savemgr/garlic-savemgr_v1.13.1.elf"
+  },
+  {
+    "name": "elfldr_v0.26.elf",
+    "filename": "elfldr_v0.26.elf",
+    "description": "",
+    "version": "v0.26",
+    "category": "Payloads",
+    "checksum": "ed6d587a057c09d6a95b2176e336d9ffc605e547ac56462128b029e47b8ccea1",
+    "url": "https://cdn.jsdmirror.com/gh/dabingog/payloads-update@main/payloads/elfldr/elfldr_v0.26.elf"
+  }
+]
