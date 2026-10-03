@@ -18,15 +18,6 @@
     "url": "https://dabingog.github.io/payloads-update/payloads/web-file-mgr/web-file-mgr-v1.9.elf"
   },
   {
-    "name": "kylin-core-community-lite-v131-global-release.elf",
-    "filename": "kylin-core-community-lite-v131-global-release.elf",
-    "description": "",
-    "version": "v1.0.0",
-    "category": "Payloads",
-    "checksum": "2b731fc60b3d7996667b372bb8e31df7125d209ecacbb6838312a51b24b65c29",
-    "url": "https://dabingog.github.io/payloads-update/payloads/kylin/kylin-core-community-lite-v131-global-release.elf"
-  },
-  {
     "name": "ShadowMountPlus_1.7beta2.elf",
     "filename": "ShadowMountPlus_1.7beta2.elf",
     "description": "",
