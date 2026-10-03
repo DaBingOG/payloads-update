@@ -54,6 +54,15 @@
     "url": "https://dabingog.github.io/payloads-update/payloads/shadowmountplus/ShadowMountPlus_1.6test15f2.elf"
   },
   {
+    "name": "title-editor_0.2.elf",
+    "filename": "title-editor_0.2.elf",
+    "description": "",
+    "version": "v1.0.0",
+    "category": "Payloads",
+    "checksum": "3579a5795b43ae47f89fd3f9effbad09a3f0e6318d31e49ac9c5718142f73e8f",
+    "url": "https://dabingog.github.io/payloads-update/payloads/title editor/title-editor_0.2.elf"
+  },
+  {
     "name": "webkit-autoloader-installer_v0.5.2.elf",
     "filename": "webkit-autoloader-installer_v0.5.2.elf",
     "description": "",
