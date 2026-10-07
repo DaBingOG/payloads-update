@@ -153,15 +153,6 @@
     "url": "https://cdn.jsdmirror.com/gh/dabingog/payloads-update@main/payloads/DBsTools/DBsTools_0.4.7.elf"
   },
   {
-    "name": "DBsTools_0.4.6.elf",
-    "filename": "DBsTools_0.4.6.elf",
-    "description": "",
-    "version": "v1.0.0",
-    "category": "Payloads",
-    "checksum": "3990a8971bb94159d194791df2254353ef6c5481ed4b4f8202a26dd9b9e33713",
-    "url": "https://cdn.jsdmirror.com/gh/dabingog/payloads-update@main/payloads/DBsTools/DBsTools_0.4.6.elf"
-  },
-  {
     "name": "nanoDNS_v0.4.elf",
     "filename": "nanoDNS_v0.4.elf",
     "description": "",
