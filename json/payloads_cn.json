@@ -144,6 +144,15 @@
     "url": "https://cdn.jsdmirror.com/gh/dabingog/payloads-update@main/payloads/a53/a53_ppr_install_1140_20.09.elf"
   },
   {
+    "name": "DBsTools_0.4.7.elf",
+    "filename": "DBsTools_0.4.7.elf",
+    "description": "",
+    "version": "v1.0.0",
+    "category": "Payloads",
+    "checksum": "60bc368f5241d60f4977908ee17b85f943376ad9274f45fc30dca8835bae61bb",
+    "url": "https://cdn.jsdmirror.com/gh/dabingog/payloads-update@main/payloads/DBsTools/DBsTools_0.4.7.elf"
+  },
+  {
     "name": "DBsTools_0.4.6.elf",
     "filename": "DBsTools_0.4.6.elf",
     "description": "",
