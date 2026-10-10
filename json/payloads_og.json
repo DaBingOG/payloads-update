@@ -153,15 +153,6 @@
     "url": "https://dabingog.github.io/payloads-update/payloads/DBsTools/DBsTools_0.4.8.elf"
   },
   {
-    "name": "DBsTools_0.4.7.elf",
-    "filename": "DBsTools_0.4.7.elf",
-    "description": "",
-    "version": "v1.0.0",
-    "category": "Payloads",
-    "checksum": "60bc368f5241d60f4977908ee17b85f943376ad9274f45fc30dca8835bae61bb",
-    "url": "https://dabingog.github.io/payloads-update/payloads/DBsTools/DBsTools_0.4.7.elf"
-  },
-  {
     "name": "nanoDNS_v0.4.elf",
     "filename": "nanoDNS_v0.4.elf",
     "description": "",
