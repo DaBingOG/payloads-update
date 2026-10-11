@@ -18,6 +18,15 @@
     "url": "https://dabingog.github.io/payloads-update/payloads/web-file-mgr/web-file-mgr-v1.9.elf"
   },
   {
+    "name": "web-file-mgr-v1.10.elf",
+    "filename": "web-file-mgr-v1.10.elf",
+    "description": "",
+    "version": "v1.0.0",
+    "category": "Payloads",
+    "checksum": "409145ec9a1c338ecb5f6f917c3b057c4ba48bfae2e86d621e19dda7ac129bd3",
+    "url": "https://dabingog.github.io/payloads-update/payloads/web-file-mgr/web-file-mgr-v1.10.elf"
+  },
+  {
     "name": "kylin-core-v2.0.0.elf",
     "filename": "kylin-core-v2.0.0.elf",
     "description": "",
