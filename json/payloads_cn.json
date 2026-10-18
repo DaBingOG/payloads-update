@@ -20,16 +20,6 @@
     "url": "https://cdn.jsdmirror.com/gh/dabingog/payloads-update@main/payloads/web-file-mgr/web-file-mgr-v1.11.elf"
   },
   {
-    "name": "web-file-mgr-v1.9.elf",
-    "filename": "web-file-mgr-v1.9.elf",
-    "description": "",
-    "version": "v1.0.0",
-    "category": "Payloads",
-    "checksum": "711cb076e887fcd55d973ade8b84bb6c22720be295bfde18e32761f6e0479a3e",
-    "icon": "https://cdn.jsdmirror.com/gh/dabingog/payloads-update@main/payloads/web-file-mgr/icon0.png",
-    "url": "https://cdn.jsdmirror.com/gh/dabingog/payloads-update@main/payloads/web-file-mgr/web-file-mgr-v1.9.elf"
-  },
-  {
     "name": "kstuff-1.13-fpkg-dr-test5.elf",
     "filename": "kstuff-1.13-fpkg-dr-test5.elf",
     "description": "",
