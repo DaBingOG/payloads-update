@@ -10,6 +10,16 @@
     "url": "https://cdn.jsdmirror.com/gh/dabingog/payloads-update@main/payloads/pkg-manager/pkg-manager_v1.4.1.elf"
   },
   {
+    "name": "web-file-mgr-v1.11.elf",
+    "filename": "web-file-mgr-v1.11.elf",
+    "description": "",
+    "version": "v1.0.0",
+    "category": "Payloads",
+    "checksum": "cbcdacf69c331025e1643fc99f5b5fc117125e7c39931b6dd914323412558911",
+    "icon": "https://cdn.jsdmirror.com/gh/dabingog/payloads-update@main/payloads/web-file-mgr/icon0.png",
+    "url": "https://cdn.jsdmirror.com/gh/dabingog/payloads-update@main/payloads/web-file-mgr/web-file-mgr-v1.11.elf"
+  },
+  {
     "name": "web-file-mgr-v1.9.elf",
     "filename": "web-file-mgr-v1.9.elf",
     "description": "",
