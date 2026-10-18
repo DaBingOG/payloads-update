@@ -154,6 +154,7 @@
     "version": "v1.0.0",
     "category": "Payloads",
     "checksum": "e1fb8fb3f373b670564052aefcda6752e51b556cd923fd1764c6e4ac7bd1dd7d",
+    "icon": "https://dabingog.github.io/payloads-update/payloads/a53/icon0.png",
     "url": "https://dabingog.github.io/payloads-update/payloads/a53/a53_ppr_install_1160_20.09.elf"
   },
   {
@@ -163,6 +164,7 @@
     "version": "v1.0.0",
     "category": "Payloads",
     "checksum": "a682ce727ddcc2324b68397333e5319ece3c351ef845dd000af1452538fb0a72",
+    "icon": "https://dabingog.github.io/payloads-update/payloads/a53/icon0.png",
     "url": "https://dabingog.github.io/payloads-update/payloads/a53/a53_ppr_install_1140_20.09.elf"
   },
   {
