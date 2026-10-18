@@ -99,16 +99,6 @@
     "url": "https://cdn.jsdmirror.com/gh/dabingog/payloads-update@main/payloads/onionHEN/OnionHEN_v0.9.0.elf"
   },
   {
-    "name": "onionHEN_v0.0.13.elf",
-    "filename": "onionHEN_v0.0.13.elf",
-    "description": "",
-    "version": "v0.0.13",
-    "category": "Payloads",
-    "checksum": "aa3f98847948e2ae8ea600c3f437e28247a0a4f8b73651a046d2859924bf97b3",
-    "icon": "https://cdn.jsdmirror.com/gh/dabingog/payloads-update@main/payloads/onionHEN/icon0.png",
-    "url": "https://cdn.jsdmirror.com/gh/dabingog/payloads-update@main/payloads/onionHEN/onionHEN_v0.0.13.elf"
-  },
-  {
     "name": "ftpsrv_ps5-payload_v0.21.1.elf",
     "filename": "ftpsrv_ps5-payload_v0.21.1.elf",
     "description": "",
