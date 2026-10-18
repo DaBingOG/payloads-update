@@ -240,6 +240,7 @@
     "version": "v0.26",
     "category": "Payloads",
     "checksum": "ed6d587a057c09d6a95b2176e336d9ffc605e547ac56462128b029e47b8ccea1",
+    "icon": "https://cdn.jsdmirror.com/gh/dabingog/payloads-update@main/payloads/elfldr/icon0.png",
     "url": "https://cdn.jsdmirror.com/gh/dabingog/payloads-update@main/payloads/elfldr/elfldr_v0.26.elf"
   }
 ]
