@@ -115,6 +115,7 @@
     "version": "v0.21.1",
     "category": "Payloads",
     "checksum": "7d4b31c83eae4e056580482a3a074e1db25922efc74ac1e439473b45d71a5938",
+    "icon": "https://cdn.jsdmirror.com/gh/dabingog/payloads-update@main/payloads/ftpsrv/icon0.png",
     "url": "https://cdn.jsdmirror.com/gh/dabingog/payloads-update@main/payloads/ftpsrv/ftpsrv_ps5-payload_v0.21.1.elf"
   },
   {
@@ -124,6 +125,7 @@
     "version": "v1.16-ng-stable",
     "category": "Payloads",
     "checksum": "f19ae469b25453a7a4af4529527521d31f143100f18a2c6839666e7121c8bd32",
+    "icon": "https://cdn.jsdmirror.com/gh/dabingog/payloads-update@main/payloads/ftpsrv/icon0.png",
     "url": "https://cdn.jsdmirror.com/gh/dabingog/payloads-update@main/payloads/ftpsrv/ftpsrv_drakmor_v1.16-ng-stable.elf"
   },
   {
