@@ -50,16 +50,6 @@
     "url": "https://dabingog.github.io/payloads-update/payloads/kylin/kylin-core-v2.0.0.elf"
   },
   {
-    "name": "ShadowMountPlus_1.7beta2.elf",
-    "filename": "ShadowMountPlus_1.7beta2.elf",
-    "description": "",
-    "version": "v1.0.0",
-    "category": "Payloads",
-    "checksum": "3f716a7b2220c7e87e87452ae05cad689ef842d3beb4cdad6c526cb6dfc2b6b5",
-    "icon": "https://dabingog.github.io/payloads-update/payloads/shadowmountplus/icon0.png",
-    "url": "https://dabingog.github.io/payloads-update/payloads/shadowmountplus/ShadowMountPlus_1.7beta2.elf"
-  },
-  {
     "name": "ShadowMountPlus_1.7beta5fix1.elf",
     "filename": "ShadowMountPlus_1.7beta5fix1.elf",
     "description": "",
