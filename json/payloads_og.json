@@ -80,16 +80,6 @@
     "url": "https://dabingog.github.io/payloads-update/payloads/onionHEN/OnionHEN_v0.9.0.elf"
   },
   {
-    "name": "ftpsrv_ps5-payload_v0.21.1.elf",
-    "filename": "ftpsrv_ps5-payload_v0.21.1.elf",
-    "description": "",
-    "version": "v0.21.1",
-    "category": "Payloads",
-    "checksum": "7d4b31c83eae4e056580482a3a074e1db25922efc74ac1e439473b45d71a5938",
-    "icon": "https://dabingog.github.io/payloads-update/payloads/ftpsrv/icon0.png",
-    "url": "https://dabingog.github.io/payloads-update/payloads/ftpsrv/ftpsrv_ps5-payload_v0.21.1.elf"
-  },
-  {
     "name": "ftpsrv_drakmor_v1.16-ng-stable.elf",
     "filename": "ftpsrv_drakmor_v1.16-ng-stable.elf",
     "description": "",
