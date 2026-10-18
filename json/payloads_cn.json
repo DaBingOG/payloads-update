@@ -30,6 +30,16 @@
     "url": "https://cdn.jsdmirror.com/gh/dabingog/payloads-update@main/payloads/web-file-mgr/web-file-mgr-v1.10.elf"
   },
   {
+    "name": "kstuff-1.13-fpkg-dr-test5.elf",
+    "filename": "kstuff-1.13-fpkg-dr-test5.elf",
+    "description": "",
+    "version": "v1.0.0",
+    "category": "Payloads",
+    "checksum": "829b45fe871dd64fbd53874ae4558076c2f1e1f203fe1ab52db5510d5fc45923",
+    "icon": "https://cdn.jsdmirror.com/gh/dabingog/payloads-update@main/payloads/kstuff-dr/icon0.png",
+    "url": "https://cdn.jsdmirror.com/gh/dabingog/payloads-update@main/payloads/kstuff-dr/kstuff-1.13-fpkg-dr-test5.elf"
+  },
+  {
     "name": "kylin-core-v2.0.0.elf",
     "filename": "kylin-core-v2.0.0.elf",
     "description": "",
