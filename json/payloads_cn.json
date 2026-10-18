@@ -70,16 +70,6 @@
     "url": "https://cdn.jsdmirror.com/gh/dabingog/payloads-update@main/payloads/webkit-autoloader-installer/webkit-autoloader-installer_v0.6.1.elf"
   },
   {
-    "name": "webkit-autoloader-installer_v0.5.2.elf",
-    "filename": "webkit-autoloader-installer_v0.5.2.elf",
-    "description": "",
-    "version": "v0.5.2",
-    "category": "Payloads",
-    "checksum": "f990e48e8330231d2066a7b8ab6dc25fda83b2cc36cb426c472b35b33767451a",
-    "icon": "https://cdn.jsdmirror.com/gh/dabingog/payloads-update@main/payloads/webkit-autoloader-installer/icon0.png",
-    "url": "https://cdn.jsdmirror.com/gh/dabingog/payloads-update@main/payloads/webkit-autoloader-installer/webkit-autoloader-installer_v0.5.2.elf"
-  },
-  {
     "name": "OnionHEN_v0.9.0.elf",
     "filename": "OnionHEN_v0.9.0.elf",
     "description": "",
