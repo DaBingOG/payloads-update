@@ -60,6 +60,16 @@
     "url": "https://cdn.jsdmirror.com/gh/dabingog/payloads-update@main/payloads/shadowmountplus/ShadowMountPlus_1.6test15f2.elf"
   },
   {
+    "name": "webkit-autoloader-installer_v0.6.1.elf",
+    "filename": "webkit-autoloader-installer_v0.6.1.elf",
+    "description": "",
+    "version": "v0.6.1",
+    "category": "Payloads",
+    "checksum": "f662c75a502e4f1bc41b055dcb490625f8222c499ce437dc80f439a3a279e93f",
+    "icon": "https://cdn.jsdmirror.com/gh/dabingog/payloads-update@main/payloads/webkit-autoloader-installer/icon0.png",
+    "url": "https://cdn.jsdmirror.com/gh/dabingog/payloads-update@main/payloads/webkit-autoloader-installer/webkit-autoloader-installer_v0.6.1.elf"
+  },
+  {
     "name": "webkit-autoloader-installer_v0.5.2.elf",
     "filename": "webkit-autoloader-installer_v0.5.2.elf",
     "description": "",
