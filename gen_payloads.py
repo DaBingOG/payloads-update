@@ -35,6 +35,11 @@ def main():
                         ver_str = fname.split("_v")[-1].replace(".elf","")
                         version = f"v{ver_str}"
 
+                    # 图标：插件同目录的 icon0.png（不存在则不生成 icon 字段）
+                    icon_path = os.path.join(root, "icon0.png")
+                    has_icon = os.path.isfile(icon_path)
+                    icon_rel_url = (rel_url.rsplit("/", 1)[0] + "/icon0.png") if "/" in rel_url else "icon0.png"
+
                     item_template = {
                         "name": fname,
                         "filename": fname,
@@ -43,12 +48,16 @@ def main():
                         "category": "Payloads",
                         "checksum": sha
                     }
+                    if has_icon:
+                        item_template["icon"] = gh_base_url + icon_rel_url
                     gh_item = item_template.copy()
                     gh_item["url"] = gh_base_url + rel_url
                     gh_list.append(gh_item)
 
                     china_item = item_template.copy()
                     china_item["url"] = china_base_url + rel_url
+                    if has_icon:
+                        china_item["icon"] = china_base_url + icon_rel_url
                     china_list.append(china_item)
     else:
         print(f"⚠️ 警告：目录 {payload_base_dir} 不存在！")
