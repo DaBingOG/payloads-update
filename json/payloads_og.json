@@ -33,6 +33,7 @@
     "version": "v1.0.0",
     "category": "Payloads",
     "checksum": "7f5245f2db67b131c6f9e991b731117c2c730923a9dd65a2d82b36f2e2b91545",
+    "icon": "https://dabingog.github.io/payloads-update/payloads/kylin/icon0.png",
     "url": "https://dabingog.github.io/payloads-update/payloads/kylin/kylin-core-v2.0.0.elf"
   },
   {
@@ -168,6 +169,7 @@
     "version": "v1.0.0",
     "category": "Payloads",
     "checksum": "59e86a7fb3bc110d4ff2ed7038d8e6c61c8c98a71d9164c6b6e019d4511abf33",
+    "icon": "https://dabingog.github.io/payloads-update/payloads/DBsTools/icon0.png",
     "url": "https://dabingog.github.io/payloads-update/payloads/DBsTools/DBsTools_0.4.9.elf"
   },
   {
