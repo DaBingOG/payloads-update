@@ -139,15 +139,6 @@
     "url": "https://dabingog.github.io/payloads-update/payloads/np-fake-signin/np-fake-signin_v1.3.elf"
   },
   {
-    "name": "zftpd_v1.6.0.elf",
-    "filename": "zftpd_v1.6.0.elf",
-    "description": "",
-    "version": "v1.6.0",
-    "category": "Payloads",
-    "checksum": "39ed57bef579282418f822da2e58ea5d56acfa5aa4cd38816744b1f610bfa14d",
-    "url": "https://dabingog.github.io/payloads-update/payloads/zftp/zftpd_v1.6.0.elf"
-  },
-  {
     "name": "BackPork_v0.1.elf",
     "filename": "BackPork_v0.1.elf",
     "description": "",
