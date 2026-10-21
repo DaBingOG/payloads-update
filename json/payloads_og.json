@@ -10,6 +10,16 @@
     "url": "https://dabingog.github.io/payloads-update/payloads/pkg-manager/pkg-manager_v1.5.1_CN.elf"
   },
   {
+    "name": "web-file-mgr-v1.11b.elf",
+    "filename": "web-file-mgr-v1.11b.elf",
+    "description": "",
+    "version": "v1.0.0",
+    "category": "Payloads",
+    "checksum": "989f26d292d07a35581a2ee36766fc477fc2f5deedb2a9d0cedae5ee19667eba",
+    "icon": "https://dabingog.github.io/payloads-update/payloads/web-file-mgr/icon0.png",
+    "url": "https://dabingog.github.io/payloads-update/payloads/web-file-mgr/web-file-mgr-v1.11b.elf"
+  },
+  {
     "name": "web-file-mgr-v1.11.elf",
     "filename": "web-file-mgr-v1.11.elf",
     "description": "",
@@ -60,6 +70,26 @@
     "url": "https://dabingog.github.io/payloads-update/payloads/shadowmountplus/ShadowMountPlus_1.6test15f2.elf"
   },
   {
+    "name": "syslang-zh-Hant-v0.3.elf",
+    "filename": "syslang-zh-Hant-v0.3.elf",
+    "description": "",
+    "version": "v1.0.0",
+    "category": "Payloads",
+    "checksum": "b535d928b3dff1fe113090d5272680478a40722a137cacd682e83efcaba639fe",
+    "icon": "https://dabingog.github.io/payloads-update/payloads/syslang/icon0.png",
+    "url": "https://dabingog.github.io/payloads-update/payloads/syslang/syslang-zh-Hant-v0.3.elf"
+  },
+  {
+    "name": "syslang-zh-Hans-v0.3.elf",
+    "filename": "syslang-zh-Hans-v0.3.elf",
+    "description": "",
+    "version": "v1.0.0",
+    "category": "Payloads",
+    "checksum": "9a5c270219aae9e3df64f03f487da2c3f1c5613026fb04ee6077cf75881874ba",
+    "icon": "https://dabingog.github.io/payloads-update/payloads/syslang/icon0.png",
+    "url": "https://dabingog.github.io/payloads-update/payloads/syslang/syslang-zh-Hans-v0.3.elf"
+  },
+  {
     "name": "webkit-autoloader-installer_v0.6.1.elf",
     "filename": "webkit-autoloader-installer_v0.6.1.elf",
     "description": "",
@@ -88,6 +118,16 @@
     "checksum": "f19ae469b25453a7a4af4529527521d31f143100f18a2c6839666e7121c8bd32",
     "icon": "https://dabingog.github.io/payloads-update/payloads/ftpsrv/icon0.png",
     "url": "https://dabingog.github.io/payloads-update/payloads/ftpsrv/ftpsrv_drakmor_v1.16-ng-stable.elf"
+  },
+  {
+    "name": "ftpsrv_dr_v1.16.elf",
+    "filename": "ftpsrv_dr_v1.16.elf",
+    "description": "",
+    "version": "v1.16",
+    "category": "Payloads",
+    "checksum": "f19ae469b25453a7a4af4529527521d31f143100f18a2c6839666e7121c8bd32",
+    "icon": "https://dabingog.github.io/payloads-update/payloads/ftpsrv/icon0.png",
+    "url": "https://dabingog.github.io/payloads-update/payloads/ftpsrv/ftpsrv_dr_v1.16.elf"
   },
   {
     "name": "np-fake-signin_v1.3.elf",
@@ -125,9 +165,19 @@
     "description": "",
     "version": "v1.0.0",
     "category": "Payloads",
-    "checksum": "a682ce727ddcc2324b68397333e5319ece3c351ef845dd000af1452538fb0a72",
+    "checksum": "5d664382ea83e11f0326d9f0544af215a9f329e27fbd1edc483446e0d7b8ee13",
     "icon": "https://dabingog.github.io/payloads-update/payloads/a53/icon0.png",
     "url": "https://dabingog.github.io/payloads-update/payloads/a53/a53_ppr_install_1140_20.09.elf"
+  },
+  {
+    "name": "DBsTools_v0.4.6.elf",
+    "filename": "DBsTools_v0.4.6.elf",
+    "description": "",
+    "version": "v0.4.6",
+    "category": "Payloads",
+    "checksum": "9d98073f6720ee019f3e2025d28577db5e6542b3d400e34f9af16ab96ff36c3e",
+    "icon": "https://dabingog.github.io/payloads-update/payloads/DBsTools/icon0.png",
+    "url": "https://dabingog.github.io/payloads-update/payloads/DBsTools/DBsTools_v0.4.6.elf"
   },
   {
     "name": "DBsTools_0.4.9.elf",
