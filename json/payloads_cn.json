@@ -40,6 +40,16 @@
     "url": "https://cdn.jsdmirror.com/gh/dabingog/payloads-update@main/payloads/kylin/kylin-core-v2.0.0.elf"
   },
   {
+    "name": "ShadowMountPlus_1.7beta6.elf",
+    "filename": "ShadowMountPlus_1.7beta6.elf",
+    "description": "",
+    "version": "v1.0.0",
+    "category": "Payloads",
+    "checksum": "c2fb6f6bf39a94572f2b34390d5fae7ccd257c734417709a248acb6cd6e18522",
+    "icon": "https://cdn.jsdmirror.com/gh/dabingog/payloads-update@main/payloads/shadowmountplus/icon0.png",
+    "url": "https://cdn.jsdmirror.com/gh/dabingog/payloads-update@main/payloads/shadowmountplus/ShadowMountPlus_1.7beta6.elf"
+  },
+  {
     "name": "ShadowMountPlus_1.7beta5fix1.elf",
     "filename": "ShadowMountPlus_1.7beta5fix1.elf",
     "description": "",
