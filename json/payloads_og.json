@@ -140,6 +140,16 @@
     "url": "https://dabingog.github.io/payloads-update/payloads/kstuff-dr/kstuff-1.13-fpkg-dr-test5.elf"
   },
   {
+    "name": "kstuff-fpkg-1.13-dr-test6.elf",
+    "filename": "kstuff-fpkg-1.13-dr-test6.elf",
+    "description": "",
+    "version": "v1.0.0",
+    "category": "Payloads",
+    "checksum": "b1f60c1ec1685904d396da16710dc9d5676bf0880abf74c65459c886010b9443",
+    "icon": "https://dabingog.github.io/payloads-update/payloads/kstuff-dr/icon0.png",
+    "url": "https://dabingog.github.io/payloads-update/payloads/kstuff-dr/kstuff-fpkg-1.13-dr-test6.elf"
+  },
+  {
     "name": "webkit-autoloader-installer_v0.6.1.elf",
     "filename": "webkit-autoloader-installer_v0.6.1.elf",
     "description": "",
