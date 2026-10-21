@@ -170,16 +170,6 @@
     "url": "https://dabingog.github.io/payloads-update/payloads/a53/a53_ppr_install_1140_20.09.elf"
   },
   {
-    "name": "DBsTools_v0.4.6.elf",
-    "filename": "DBsTools_v0.4.6.elf",
-    "description": "",
-    "version": "v0.4.6",
-    "category": "Payloads",
-    "checksum": "9d98073f6720ee019f3e2025d28577db5e6542b3d400e34f9af16ab96ff36c3e",
-    "icon": "https://dabingog.github.io/payloads-update/payloads/DBsTools/icon0.png",
-    "url": "https://dabingog.github.io/payloads-update/payloads/DBsTools/DBsTools_v0.4.6.elf"
-  },
-  {
     "name": "DBsTools_0.4.9.elf",
     "filename": "DBsTools_0.4.9.elf",
     "description": "",
