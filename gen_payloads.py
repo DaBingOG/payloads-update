@@ -11,14 +11,21 @@ def get_sha256(filepath):
 def main():
     repo_root = os.getcwd()
     payload_base_dir = os.path.join(repo_root, "payloads")
+    cheats_base_dir = os.path.join(repo_root, "cheats")
 
     # 海外源 github.io
     gh_base_url = "https://dabingog.github.io/payloads-update/payloads/"
     # 国内源 JSDMirror
     china_base_url = "https://cdn.jsdmirror.com/gh/dabingog/payloads-update@main/payloads/"
 
+    # 金手指包（cheats/ 目录，zip）
+    gh_cheats_base_url = "https://dabingog.github.io/payloads-update/cheats/"
+    china_cheats_base_url = "https://cdn.jsdmirror.com/gh/dabingog/payloads-update@main/cheats/"
+
     gh_list = []
     china_list = []
+    cheats_gh_list = []
+    cheats_china_list = []
 
     if os.path.exists(payload_base_dir):
         for root, _, files in os.walk(payload_base_dir):
@@ -28,6 +35,7 @@ def main():
                     rel_path = os.path.relpath(full_path, payload_base_dir)
                     rel_url = rel_path.replace("\\", "/")
                     sha = get_sha256(full_path)
+                    fsize = os.path.getsize(full_path)
 
                     # 提取版本号
                     version = "v1.0.0"
@@ -42,6 +50,7 @@ def main():
 
                     item_template = {
                         "name": fname,
+                        "size": fsize,
                         "filename": fname,
                         "description": "",
                         "version": version,
@@ -62,6 +71,36 @@ def main():
     else:
         print(f"⚠️ 警告：目录 {payload_base_dir} 不存在！")
 
+    # 金手指包清单：cheats/ 下的 zip（同名覆盖安装用）
+    if os.path.exists(cheats_base_dir):
+        for root, _, files in os.walk(cheats_base_dir):
+            for fname in files:
+                if fname.lower().endswith(".zip"):
+                    full_path = os.path.join(root, fname)
+                    rel_path = os.path.relpath(full_path, cheats_base_dir)
+                    rel_url = rel_path.replace("\\", "/")
+                    sha = get_sha256(full_path)
+                    fsize = os.path.getsize(full_path)
+
+                    item_template = {
+                        "name": fname,
+                        "size": fsize,
+                        "filename": fname,
+                        "description": "",
+                        "category": "Cheats",
+                        "checksum": sha
+                    }
+                    cheats_gh_list.append({
+                        **item_template,
+                        "url": gh_cheats_base_url + rel_url
+                    })
+                    cheats_china_list.append({
+                        **item_template,
+                        "url": china_cheats_base_url + rel_url
+                    })
+    else:
+        print(f"⚠️ 警告：目录 {cheats_base_dir} 不存在！")
+
     out_dir = os.path.join(repo_root, "json")
     os.makedirs(out_dir, exist_ok=True)
 
@@ -75,8 +114,19 @@ def main():
     with open(china_json_path, "w", encoding="utf-8") as f:
         json.dump(china_list, f, indent=2, ensure_ascii=False)
 
+    # 金手指清单：cheats_og.json / cheats_cn.json
+    cheats_gh_json_path = os.path.join(out_dir, "cheats_og.json")
+    with open(cheats_gh_json_path, "w", encoding="utf-8") as f:
+        json.dump(cheats_gh_list, f, indent=2, ensure_ascii=False)
+
+    cheats_china_json_path = os.path.join(out_dir, "cheats_cn.json")
+    with open(cheats_china_json_path, "w", encoding="utf-8") as f:
+        json.dump(cheats_china_list, f, indent=2, ensure_ascii=False)
+
     print(f"✅ 原版OG清单：{gh_json_path}，共 {len(gh_list)}")
     print(f"✅ 国内CN清单：{china_json_path}，共 {len(china_list)}")
+    print(f"✅ 金手指OG清单：{cheats_gh_json_path}，共 {len(cheats_gh_list)}")
+    print(f"✅ 金手指CN清单：{cheats_china_json_path}，共 {len(cheats_china_list)}")
 
 if __name__ == "__main__":
     main()
