@@ -1,16 +1,7 @@
 [
   {
-    "name": "DBsTools_0.4.9.elf",
-    "filename": "DBsTools_0.4.9.elf",
-    "description": "",
-    "version": "v1.0.0",
-    "category": "Payloads",
-    "checksum": "59e86a7fb3bc110d4ff2ed7038d8e6c61c8c98a71d9164c6b6e019d4511abf33",
-    "icon": "https://cdn.jsdmirror.com/gh/dabingog/payloads-update@main/payloads/DBsTools/icon0.png",
-    "url": "https://cdn.jsdmirror.com/gh/dabingog/payloads-update@main/payloads/DBsTools/DBsTools_0.4.9.elf"
-  },
-  {
     "name": "pkg-manager_v1.5.1_CN.elf",
+    "size": 2037392,
     "filename": "pkg-manager_v1.5.1_CN.elf",
     "description": "",
     "version": "v1.5.1_CN",
@@ -20,67 +11,41 @@
     "url": "https://cdn.jsdmirror.com/gh/dabingog/payloads-update@main/payloads/pkg-manager/pkg-manager_v1.5.1_CN.elf"
   },
   {
-    "name": "Kstuff-lite_1.11Beta.elf",
-    "filename": "Kstuff-lite_1.11Beta.elf",
+    "name": "web-file-mgr-v1.11b.elf",
+    "size": 477016,
+    "filename": "web-file-mgr-v1.11b.elf",
     "description": "",
     "version": "v1.0.0",
     "category": "Payloads",
-    "checksum": "62d9bb6f16531e1c10fd522cb918431eaa3319dcd37405af5cc0b2240d7b2ee5",
-    "icon": "https://cdn.jsdmirror.com/gh/dabingog/payloads-update@main/payloads/kstuff/icon0.png",
-    "url": "https://cdn.jsdmirror.com/gh/dabingog/payloads-update@main/payloads/kstuff/Kstuff-lite_1.11Beta.elf"
+    "checksum": "989f26d292d07a35581a2ee36766fc477fc2f5deedb2a9d0cedae5ee19667eba",
+    "icon": "https://cdn.jsdmirror.com/gh/dabingog/payloads-update@main/payloads/web-file-mgr/icon0.png",
+    "url": "https://cdn.jsdmirror.com/gh/dabingog/payloads-update@main/payloads/web-file-mgr/web-file-mgr-v1.11b.elf"
   },
   {
-    "name": "ps5debug-NG_v1.3.2.elf",
-    "filename": "ps5debug-NG_v1.3.2.elf",
-    "description": "",
-    "version": "v1.3.2",
-    "category": "Payloads",
-    "checksum": "949b0e6e0fe3f24f4a820319fd76d9ccb92f9770cbb1a64b09a8eca5c1fc9ff3",
-    "icon": "https://cdn.jsdmirror.com/gh/dabingog/payloads-update@main/payloads/ps5debug-NG/icon0.png",
-    "url": "https://cdn.jsdmirror.com/gh/dabingog/payloads-update@main/payloads/ps5debug-NG/ps5debug-NG_v1.3.2.elf"
-  },
-  {
-    "name": "syslang-zh-Hant-v0.3.elf",
-    "filename": "syslang-zh-Hant-v0.3.elf",
+    "name": "kstuff-fpkg-1.13-dr-test6.elf",
+    "size": 1818680,
+    "filename": "kstuff-fpkg-1.13-dr-test6.elf",
     "description": "",
     "version": "v1.0.0",
     "category": "Payloads",
-    "checksum": "b535d928b3dff1fe113090d5272680478a40722a137cacd682e83efcaba639fe",
-    "icon": "https://cdn.jsdmirror.com/gh/dabingog/payloads-update@main/payloads/syslang/icon0.png",
-    "url": "https://cdn.jsdmirror.com/gh/dabingog/payloads-update@main/payloads/syslang/syslang-zh-Hant-v0.3.elf"
+    "checksum": "b1f60c1ec1685904d396da16710dc9d5676bf0880abf74c65459c886010b9443",
+    "icon": "https://cdn.jsdmirror.com/gh/dabingog/payloads-update@main/payloads/kstuff-dr/icon0.png",
+    "url": "https://cdn.jsdmirror.com/gh/dabingog/payloads-update@main/payloads/kstuff-dr/kstuff-fpkg-1.13-dr-test6.elf"
   },
   {
-    "name": "syslang-zh-Hans-v0.3.elf",
-    "filename": "syslang-zh-Hans-v0.3.elf",
+    "name": "kylin-core-v2.0.0.elf",
+    "size": 4999968,
+    "filename": "kylin-core-v2.0.0.elf",
     "description": "",
     "version": "v1.0.0",
     "category": "Payloads",
-    "checksum": "9a5c270219aae9e3df64f03f487da2c3f1c5613026fb04ee6077cf75881874ba",
-    "icon": "https://cdn.jsdmirror.com/gh/dabingog/payloads-update@main/payloads/syslang/icon0.png",
-    "url": "https://cdn.jsdmirror.com/gh/dabingog/payloads-update@main/payloads/syslang/syslang-zh-Hans-v0.3.elf"
-  },
-  {
-    "name": "OnionHEN_v0.9.0.elf",
-    "filename": "OnionHEN_v0.9.0.elf",
-    "description": "",
-    "version": "v0.9.0",
-    "category": "Payloads",
-    "checksum": "1f1f7c883d5d998be1d95d7d80b718f85180f8156f257661b0f445a7c6b7c212",
-    "icon": "https://cdn.jsdmirror.com/gh/dabingog/payloads-update@main/payloads/onionHEN/icon0.png",
-    "url": "https://cdn.jsdmirror.com/gh/dabingog/payloads-update@main/payloads/onionHEN/OnionHEN_v0.9.0.elf"
-  },
-  {
-    "name": "BackPork_v0.1.elf",
-    "filename": "BackPork_v0.1.elf",
-    "description": "",
-    "version": "v0.1",
-    "category": "Payloads",
-    "checksum": "d74e4cd119b2bb1fd423f2f5b1c9a7f096b3e588c753af1ab48b983d56216a52",
-    "icon": "https://cdn.jsdmirror.com/gh/dabingog/payloads-update@main/payloads/backpork/icon0.png",
-    "url": "https://cdn.jsdmirror.com/gh/dabingog/payloads-update@main/payloads/backpork/BackPork_v0.1.elf"
+    "checksum": "7f5245f2db67b131c6f9e991b731117c2c730923a9dd65a2d82b36f2e2b91545",
+    "icon": "https://cdn.jsdmirror.com/gh/dabingog/payloads-update@main/payloads/kylin/icon0.png",
+    "url": "https://cdn.jsdmirror.com/gh/dabingog/payloads-update@main/payloads/kylin/kylin-core-v2.0.0.elf"
   },
   {
     "name": "ShadowMountPlus_1.7beta6.elf",
+    "size": 2517016,
     "filename": "ShadowMountPlus_1.7beta6.elf",
     "description": "",
     "version": "v1.0.0",
@@ -91,6 +56,7 @@
   },
   {
     "name": "ShadowMountPlus_1.6test15f2.elf",
+    "size": 1457520,
     "filename": "ShadowMountPlus_1.6test15f2.elf",
     "description": "",
     "version": "v1.0.0",
@@ -100,47 +66,30 @@
     "url": "https://cdn.jsdmirror.com/gh/dabingog/payloads-update@main/payloads/shadowmountplus/ShadowMountPlus_1.6test15f2.elf"
   },
   {
-    "name": "kylin-core-v2.0.0.elf",
-    "filename": "kylin-core-v2.0.0.elf",
+    "name": "syslang-zh-Hant-v0.3.elf",
+    "size": 191840,
+    "filename": "syslang-zh-Hant-v0.3.elf",
     "description": "",
     "version": "v1.0.0",
     "category": "Payloads",
-    "checksum": "7f5245f2db67b131c6f9e991b731117c2c730923a9dd65a2d82b36f2e2b91545",
-    "icon": "https://cdn.jsdmirror.com/gh/dabingog/payloads-update@main/payloads/kylin/icon0.png",
-    "url": "https://cdn.jsdmirror.com/gh/dabingog/payloads-update@main/payloads/kylin/kylin-core-v2.0.0.elf"
+    "checksum": "b535d928b3dff1fe113090d5272680478a40722a137cacd682e83efcaba639fe",
+    "icon": "https://cdn.jsdmirror.com/gh/dabingog/payloads-update@main/payloads/syslang/icon0.png",
+    "url": "https://cdn.jsdmirror.com/gh/dabingog/payloads-update@main/payloads/syslang/syslang-zh-Hant-v0.3.elf"
   },
   {
-    "name": "ftpsrv_dr_v1.16.elf",
-    "filename": "ftpsrv_dr_v1.16.elf",
-    "description": "",
-    "version": "v1.16",
-    "category": "Payloads",
-    "checksum": "f19ae469b25453a7a4af4529527521d31f143100f18a2c6839666e7121c8bd32",
-    "icon": "https://cdn.jsdmirror.com/gh/dabingog/payloads-update@main/payloads/ftpsrv/icon0.png",
-    "url": "https://cdn.jsdmirror.com/gh/dabingog/payloads-update@main/payloads/ftpsrv/ftpsrv_dr_v1.16.elf"
-  },
-  {
-    "name": "garlic-savemgr_v1.13.1.elf",
-    "filename": "garlic-savemgr_v1.13.1.elf",
-    "description": "",
-    "version": "v1.13.1",
-    "category": "Payloads",
-    "checksum": "b0fc2fcdda977d2a1207d77148746859b7ea7f3cfcad02828a7a9b49651807f5",
-    "icon": "https://cdn.jsdmirror.com/gh/dabingog/payloads-update@main/payloads/garlic-savemgr/icon0.png",
-    "url": "https://cdn.jsdmirror.com/gh/dabingog/payloads-update@main/payloads/garlic-savemgr/garlic-savemgr_v1.13.1.elf"
-  },
-  {
-    "name": "kstuff-fpkg-1.13-dr-test6.elf",
-    "filename": "kstuff-fpkg-1.13-dr-test6.elf",
+    "name": "syslang-zh-Hans-v0.3.elf",
+    "size": 191840,
+    "filename": "syslang-zh-Hans-v0.3.elf",
     "description": "",
     "version": "v1.0.0",
     "category": "Payloads",
-    "checksum": "b1f60c1ec1685904d396da16710dc9d5676bf0880abf74c65459c886010b9443",
-    "icon": "https://cdn.jsdmirror.com/gh/dabingog/payloads-update@main/payloads/kstuff-dr/icon0.png",
-    "url": "https://cdn.jsdmirror.com/gh/dabingog/payloads-update@main/payloads/kstuff-dr/kstuff-fpkg-1.13-dr-test6.elf"
+    "checksum": "9a5c270219aae9e3df64f03f487da2c3f1c5613026fb04ee6077cf75881874ba",
+    "icon": "https://cdn.jsdmirror.com/gh/dabingog/payloads-update@main/payloads/syslang/icon0.png",
+    "url": "https://cdn.jsdmirror.com/gh/dabingog/payloads-update@main/payloads/syslang/syslang-zh-Hans-v0.3.elf"
   },
   {
     "name": "webkit-autoloader-installer_v0.6.1.elf",
+    "size": 3556608,
     "filename": "webkit-autoloader-installer_v0.6.1.elf",
     "description": "",
     "version": "v0.6.1",
@@ -150,7 +99,30 @@
     "url": "https://cdn.jsdmirror.com/gh/dabingog/payloads-update@main/payloads/webkit-autoloader-installer/webkit-autoloader-installer_v0.6.1.elf"
   },
   {
+    "name": "OnionHEN_v0.9.0.elf",
+    "size": 4676224,
+    "filename": "OnionHEN_v0.9.0.elf",
+    "description": "",
+    "version": "v0.9.0",
+    "category": "Payloads",
+    "checksum": "1f1f7c883d5d998be1d95d7d80b718f85180f8156f257661b0f445a7c6b7c212",
+    "icon": "https://cdn.jsdmirror.com/gh/dabingog/payloads-update@main/payloads/onionHEN/icon0.png",
+    "url": "https://cdn.jsdmirror.com/gh/dabingog/payloads-update@main/payloads/onionHEN/OnionHEN_v0.9.0.elf"
+  },
+  {
+    "name": "ftpsrv_dr_v1.16.elf",
+    "size": 230640,
+    "filename": "ftpsrv_dr_v1.16.elf",
+    "description": "",
+    "version": "v1.16",
+    "category": "Payloads",
+    "checksum": "f19ae469b25453a7a4af4529527521d31f143100f18a2c6839666e7121c8bd32",
+    "icon": "https://cdn.jsdmirror.com/gh/dabingog/payloads-update@main/payloads/ftpsrv/icon0.png",
+    "url": "https://cdn.jsdmirror.com/gh/dabingog/payloads-update@main/payloads/ftpsrv/ftpsrv_dr_v1.16.elf"
+  },
+  {
     "name": "np-fake-signin_v1.3.elf",
+    "size": 101120,
     "filename": "np-fake-signin_v1.3.elf",
     "description": "",
     "version": "v1.3",
@@ -160,47 +132,30 @@
     "url": "https://cdn.jsdmirror.com/gh/dabingog/payloads-update@main/payloads/np-fake-signin/np-fake-signin_v1.3.elf"
   },
   {
-    "name": "elfldr_v0.26.elf",
-    "filename": "elfldr_v0.26.elf",
+    "name": "BackPork_v0.1.elf",
+    "size": 99800,
+    "filename": "BackPork_v0.1.elf",
     "description": "",
-    "version": "v0.26",
+    "version": "v0.1",
     "category": "Payloads",
-    "checksum": "ed6d587a057c09d6a95b2176e336d9ffc605e547ac56462128b029e47b8ccea1",
-    "icon": "https://cdn.jsdmirror.com/gh/dabingog/payloads-update@main/payloads/elfldr/icon0.png",
-    "url": "https://cdn.jsdmirror.com/gh/dabingog/payloads-update@main/payloads/elfldr/elfldr_v0.26.elf"
+    "checksum": "d74e4cd119b2bb1fd423f2f5b1c9a7f096b3e588c753af1ab48b983d56216a52",
+    "icon": "https://cdn.jsdmirror.com/gh/dabingog/payloads-update@main/payloads/backpork/icon0.png",
+    "url": "https://cdn.jsdmirror.com/gh/dabingog/payloads-update@main/payloads/backpork/BackPork_v0.1.elf"
   },
   {
-    "name": "web-file-mgr-v1.11b.elf",
-    "filename": "web-file-mgr-v1.11b.elf",
+    "name": "a53_ppr_install_1160_20.09.elf",
+    "size": 235014,
+    "filename": "a53_ppr_install_1160_20.09.elf",
     "description": "",
     "version": "v1.0.0",
     "category": "Payloads",
-    "checksum": "989f26d292d07a35581a2ee36766fc477fc2f5deedb2a9d0cedae5ee19667eba",
-    "icon": "https://cdn.jsdmirror.com/gh/dabingog/payloads-update@main/payloads/web-file-mgr/icon0.png",
-    "url": "https://cdn.jsdmirror.com/gh/dabingog/payloads-update@main/payloads/web-file-mgr/web-file-mgr-v1.11b.elf"
-  },
-  {
-    "name": "nanoDNS_v0.4.elf",
-    "filename": "nanoDNS_v0.4.elf",
-    "description": "",
-    "version": "v0.4",
-    "category": "Payloads",
-    "checksum": "fcfb7d47c3b295560ea1603dc015f7c4950353ef0faca16428bd425680ef1fc5",
-    "icon": "https://cdn.jsdmirror.com/gh/dabingog/payloads-update@main/payloads/nanoDNS/icon0.png",
-    "url": "https://cdn.jsdmirror.com/gh/dabingog/payloads-update@main/payloads/nanoDNS/nanoDNS_v0.4.elf"
-  },
-  {
-    "name": "websrv_v0.34.elf",
-    "filename": "websrv_v0.34.elf",
-    "description": "",
-    "version": "v0.34",
-    "category": "Payloads",
-    "checksum": "54730c867c6e1148536fdcb370e63a7762d989ea87b62488ad4caff64d43f263",
-    "icon": "https://cdn.jsdmirror.com/gh/dabingog/payloads-update@main/payloads/websrv/icon0.png",
-    "url": "https://cdn.jsdmirror.com/gh/dabingog/payloads-update@main/payloads/websrv/websrv_v0.34.elf"
+    "checksum": "e1fb8fb3f373b670564052aefcda6752e51b556cd923fd1764c6e4ac7bd1dd7d",
+    "icon": "https://cdn.jsdmirror.com/gh/dabingog/payloads-update@main/payloads/a53/icon0.png",
+    "url": "https://cdn.jsdmirror.com/gh/dabingog/payloads-update@main/payloads/a53/a53_ppr_install_1160_20.09.elf"
   },
   {
     "name": "a53_ppr_install_1140_20.09.elf",
+    "size": 287280,
     "filename": "a53_ppr_install_1140_20.09.elf",
     "description": "",
     "version": "v1.0.0",
@@ -210,13 +165,80 @@
     "url": "https://cdn.jsdmirror.com/gh/dabingog/payloads-update@main/payloads/a53/a53_ppr_install_1140_20.09.elf"
   },
   {
-    "name": "a53_ppr_install_1160_20.09.elf",
-    "filename": "a53_ppr_install_1160_20.09.elf",
+    "name": "DBsTools_0.4.9.elf",
+    "size": 4308272,
+    "filename": "DBsTools_0.4.9.elf",
     "description": "",
     "version": "v1.0.0",
     "category": "Payloads",
-    "checksum": "e1fb8fb3f373b670564052aefcda6752e51b556cd923fd1764c6e4ac7bd1dd7d",
-    "icon": "https://cdn.jsdmirror.com/gh/dabingog/payloads-update@main/payloads/a53/icon0.png",
-    "url": "https://cdn.jsdmirror.com/gh/dabingog/payloads-update@main/payloads/a53/a53_ppr_install_1160_20.09.elf"
+    "checksum": "59e86a7fb3bc110d4ff2ed7038d8e6c61c8c98a71d9164c6b6e019d4511abf33",
+    "icon": "https://cdn.jsdmirror.com/gh/dabingog/payloads-update@main/payloads/DBsTools/icon0.png",
+    "url": "https://cdn.jsdmirror.com/gh/dabingog/payloads-update@main/payloads/DBsTools/DBsTools_0.4.9.elf"
+  },
+  {
+    "name": "nanoDNS_v0.4.elf",
+    "size": 132352,
+    "filename": "nanoDNS_v0.4.elf",
+    "description": "",
+    "version": "v0.4",
+    "category": "Payloads",
+    "checksum": "fcfb7d47c3b295560ea1603dc015f7c4950353ef0faca16428bd425680ef1fc5",
+    "icon": "https://cdn.jsdmirror.com/gh/dabingog/payloads-update@main/payloads/nanoDNS/icon0.png",
+    "url": "https://cdn.jsdmirror.com/gh/dabingog/payloads-update@main/payloads/nanoDNS/nanoDNS_v0.4.elf"
+  },
+  {
+    "name": "Kstuff-lite_1.11Beta.elf",
+    "size": 1737080,
+    "filename": "Kstuff-lite_1.11Beta.elf",
+    "description": "",
+    "version": "v1.0.0",
+    "category": "Payloads",
+    "checksum": "62d9bb6f16531e1c10fd522cb918431eaa3319dcd37405af5cc0b2240d7b2ee5",
+    "icon": "https://cdn.jsdmirror.com/gh/dabingog/payloads-update@main/payloads/kstuff/icon0.png",
+    "url": "https://cdn.jsdmirror.com/gh/dabingog/payloads-update@main/payloads/kstuff/Kstuff-lite_1.11Beta.elf"
+  },
+  {
+    "name": "ps5debug-NG_v1.3.2.elf",
+    "size": 4059688,
+    "filename": "ps5debug-NG_v1.3.2.elf",
+    "description": "",
+    "version": "v1.3.2",
+    "category": "Payloads",
+    "checksum": "949b0e6e0fe3f24f4a820319fd76d9ccb92f9770cbb1a64b09a8eca5c1fc9ff3",
+    "icon": "https://cdn.jsdmirror.com/gh/dabingog/payloads-update@main/payloads/ps5debug-NG/icon0.png",
+    "url": "https://cdn.jsdmirror.com/gh/dabingog/payloads-update@main/payloads/ps5debug-NG/ps5debug-NG_v1.3.2.elf"
+  },
+  {
+    "name": "websrv_v0.34.elf",
+    "size": 1597864,
+    "filename": "websrv_v0.34.elf",
+    "description": "",
+    "version": "v0.34",
+    "category": "Payloads",
+    "checksum": "54730c867c6e1148536fdcb370e63a7762d989ea87b62488ad4caff64d43f263",
+    "icon": "https://cdn.jsdmirror.com/gh/dabingog/payloads-update@main/payloads/websrv/icon0.png",
+    "url": "https://cdn.jsdmirror.com/gh/dabingog/payloads-update@main/payloads/websrv/websrv_v0.34.elf"
+  },
+  {
+    "name": "garlic-savemgr_v1.13.1.elf",
+    "size": 1665456,
+    "filename": "garlic-savemgr_v1.13.1.elf",
+    "description": "",
+    "version": "v1.13.1",
+    "category": "Payloads",
+    "checksum": "b0fc2fcdda977d2a1207d77148746859b7ea7f3cfcad02828a7a9b49651807f5",
+    "icon": "https://cdn.jsdmirror.com/gh/dabingog/payloads-update@main/payloads/garlic-savemgr/icon0.png",
+    "url": "https://cdn.jsdmirror.com/gh/dabingog/payloads-update@main/payloads/garlic-savemgr/garlic-savemgr_v1.13.1.elf"
+  },
+  {
+    "name": "elfldr_v0.26.elf",
+    "size": 394480,
+    "filename": "elfldr_v0.26.elf",
+    "description": "",
+    "version": "v0.26",
+    "category": "Payloads",
+    "checksum": "ed6d587a057c09d6a95b2176e336d9ffc605e547ac56462128b029e47b8ccea1",
+    "icon": "https://cdn.jsdmirror.com/gh/dabingog/payloads-update@main/payloads/elfldr/icon0.png",
+    "url": "https://cdn.jsdmirror.com/gh/dabingog/payloads-update@main/payloads/elfldr/elfldr_v0.26.elf"
   }
 ]
