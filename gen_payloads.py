@@ -1,6 +1,7 @@
 import os
 import hashlib
 import json
+from datetime import date
 
 def get_sha256(filepath):
     h = hashlib.sha256()
@@ -88,7 +89,8 @@ def main():
                         "filename": fname,
                         "description": "",
                         "category": "Cheats",
-                        "checksum": sha
+                        "checksum": sha，
+                        "date": date.today().isoformat()
                     }
                     cheats_gh_list.append({
                         **item_template,
