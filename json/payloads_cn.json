@@ -165,6 +165,17 @@
     "url": "https://cdn.jsdmirror.com/gh/dabingog/payloads-update@main/payloads/a53/a53_ppr_install_1140_20.09.elf"
   },
   {
+    "name": "DBsTools_0.5.0.elf",
+    "size": 4341040,
+    "filename": "DBsTools_0.5.0.elf",
+    "description": "",
+    "version": "v1.0.0",
+    "category": "Payloads",
+    "checksum": "b505c7ba9cd6459b4530b2b14013dca08edd6450bdd2b65bc1bc2366fdb277c7",
+    "icon": "https://cdn.jsdmirror.com/gh/dabingog/payloads-update@main/payloads/DBsTools/icon0.png",
+    "url": "https://cdn.jsdmirror.com/gh/dabingog/payloads-update@main/payloads/DBsTools/DBsTools_0.5.0.elf"
+  },
+  {
     "name": "nanoDNS_v0.4.elf",
     "size": 132352,
     "filename": "nanoDNS_v0.4.elf",
