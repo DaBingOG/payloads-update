@@ -22,6 +22,17 @@
     "url": "https://dabingog.github.io/payloads-update/payloads/web-file-mgr/web-file-mgr-v1.11b.elf"
   },
   {
+    "name": "web-file-mgr_v1.12.elf",
+    "size": 477016,
+    "filename": "web-file-mgr_v1.12.elf",
+    "description": "",
+    "version": "v1.12",
+    "category": "Payloads",
+    "checksum": "f3461eb967da7afbbf0420d3294fbc8f999cc2ad53a756bed413aa80c7cfa67a",
+    "icon": "https://dabingog.github.io/payloads-update/payloads/web-file-mgr/icon0.png",
+    "url": "https://dabingog.github.io/payloads-update/payloads/web-file-mgr/web-file-mgr_v1.12.elf"
+  },
+  {
     "name": "kstuff-fpkg-1.13-dr-test6.elf",
     "size": 1818680,
     "filename": "kstuff-fpkg-1.13-dr-test6.elf",
