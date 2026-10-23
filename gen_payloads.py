@@ -89,7 +89,7 @@ def main():
                         "filename": fname,
                         "description": "",
                         "category": "Cheats",
-                        "checksum": sha，
+                        "checksum": sha,
                         "date": date.today().isoformat()
                     }
                     cheats_gh_list.append({
