@@ -11,17 +11,6 @@
     "url": "https://dabingog.github.io/payloads-update/payloads/pkg-manager/pkg-manager_v1.5.1_CN.elf"
   },
   {
-    "name": "web-file-mgr-v1.11b.elf",
-    "size": 477016,
-    "filename": "web-file-mgr-v1.11b.elf",
-    "description": "",
-    "version": "v1.0.0",
-    "category": "Payloads",
-    "checksum": "989f26d292d07a35581a2ee36766fc477fc2f5deedb2a9d0cedae5ee19667eba",
-    "icon": "https://dabingog.github.io/payloads-update/payloads/web-file-mgr/icon0.png",
-    "url": "https://dabingog.github.io/payloads-update/payloads/web-file-mgr/web-file-mgr-v1.11b.elf"
-  },
-  {
     "name": "web-file-mgr_v1.12.elf",
     "size": 477016,
     "filename": "web-file-mgr_v1.12.elf",
