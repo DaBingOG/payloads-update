@@ -55,17 +55,6 @@
     "url": "https://dabingog.github.io/payloads-update/payloads/backpork/BackPork_v0.1.elf"
   },
   {
-    "name": "ShadowMountPlus_1.7beta7.elf",
-    "size": 2517288,
-    "filename": "ShadowMountPlus_1.7beta7.elf",
-    "description": "",
-    "version": "v1.0.0",
-    "category": "Payloads",
-    "checksum": "a8f9d7f76e8749912508ade0cd5c78076b5bbf1271813c78c80c3d3d9d4777ee",
-    "icon": "https://dabingog.github.io/payloads-update/payloads/shadowmountplus/icon0.png",
-    "url": "https://dabingog.github.io/payloads-update/payloads/shadowmountplus/ShadowMountPlus_1.7beta7.elf"
-  },
-  {
     "name": "ShadowMountPlus_1.6test15f2.elf",
     "size": 1457520,
     "filename": "ShadowMountPlus_1.6test15f2.elf",
