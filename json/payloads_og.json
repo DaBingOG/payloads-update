@@ -208,17 +208,6 @@
     "url": "https://dabingog.github.io/payloads-update/payloads/web-file-mgr/web-file-mgr-v1.14.elf"
   },
   {
-    "name": "web-file-mgr_v1.13-rc2.elf",
-    "size": 591720,
-    "filename": "web-file-mgr_v1.13-rc2.elf",
-    "description": "",
-    "version": "v1.13-rc2",
-    "category": "Payloads",
-    "checksum": "91f8e7f52183ce624651b779016bb48cbe7adaad278833a1191ad2e8fc6fbfe3",
-    "icon": "https://dabingog.github.io/payloads-update/payloads/web-file-mgr/icon0.png",
-    "url": "https://dabingog.github.io/payloads-update/payloads/web-file-mgr/web-file-mgr_v1.13-rc2.elf"
-  },
-  {
     "name": "DBsTools_0.5.2.elf",
     "size": 4422968,
     "filename": "DBsTools_0.5.2.elf",
