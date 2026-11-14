@@ -197,6 +197,17 @@
     "url": "https://dabingog.github.io/payloads-update/payloads/ftpsrv/ftpsrv_dr_v1.16.elf"
   },
   {
+    "name": "web-file-mgr-v1.14.elf",
+    "size": 854728,
+    "filename": "web-file-mgr-v1.14.elf",
+    "description": "",
+    "version": "v1.0.0",
+    "category": "Payloads",
+    "checksum": "8493c0bd11d77f9cce4b6c93564ffcae7185a5b530ecf856a768519c2514e231",
+    "icon": "https://dabingog.github.io/payloads-update/payloads/web-file-mgr/icon0.png",
+    "url": "https://dabingog.github.io/payloads-update/payloads/web-file-mgr/web-file-mgr-v1.14.elf"
+  },
+  {
     "name": "web-file-mgr_v1.13-rc2.elf",
     "size": 591720,
     "filename": "web-file-mgr_v1.13-rc2.elf",
