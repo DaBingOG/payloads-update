@@ -241,6 +241,17 @@
     "url": "https://dabingog.github.io/payloads-update/payloads/kstuff-dr/kstuff-fpkg-1.13-dr-test6.elf"
   },
   {
+    "name": "kstuff-fpkg_1.13-dr-t8-r.elf",
+    "size": 1845320,
+    "filename": "kstuff-fpkg_1.13-dr-t8-r.elf",
+    "description": "",
+    "version": "v1.0.0",
+    "category": "Payloads",
+    "checksum": "127332652374157b8ee0f5eb1128976f9055b88df5da89c0c54183e9c326fc7f",
+    "icon": "https://dabingog.github.io/payloads-update/payloads/kstuff-dr/icon0.png",
+    "url": "https://dabingog.github.io/payloads-update/payloads/kstuff-dr/kstuff-fpkg_1.13-dr-t8-r.elf"
+  },
+  {
     "name": "ps5debug-NG_v1.3.2.elf",
     "size": 4059688,
     "filename": "ps5debug-NG_v1.3.2.elf",
