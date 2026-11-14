@@ -44,6 +44,16 @@
     "url": "https://cdn.jsdmirror.com/gh/dabingog/payloads-update@main/payloads/shadowmountplus/ShadowMountPlus_1.7beta11.elf"
   },
   {
+    "name": "kraken-mount_0.0.1-beta.elf",
+    "size": 4327528,
+    "filename": "kraken-mount_0.0.1-beta.elf",
+    "description": "",
+    "version": "v1.0.0",
+    "category": "Payloads",
+    "checksum": "32cdf8e9aee9a8e91a7acd8884ac4701a75a38d96d483ea00bb7cbf4fe11a522",
+    "url": "https://cdn.jsdmirror.com/gh/dabingog/payloads-update@main/payloads/kraken-mount/kraken-mount_0.0.1-beta.elf"
+  },
+  {
     "name": "a53_ppr_install_1160_20.09.elf",
     "size": 235014,
     "filename": "a53_ppr_install_1160_20.09.elf",
